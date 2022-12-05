@@ -1,8 +1,11 @@
 import csv
+
 import matplotlib.pyplot as plt
+import pandas as pd
 
 f = open('C:/Users/kkang/ai_basic/ai_prog_basic/Chapters/Ch12_Pandas/data/weather.csv')
 data = csv.reader(f)
+
 # 헤더를 제거
 header = next(data)
 
