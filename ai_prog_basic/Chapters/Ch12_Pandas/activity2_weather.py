@@ -2,8 +2,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-url = "https://raw.githubusercontent.com/HectorSin/ai_basic/master/ai_prog_basic/Chapters/Ch12_Pandas/data/weather.csv"
-weather = pd.read_csv(url, index_col = 0, encoding = 'CP949')
+#url = "https://raw.githubusercontent.com/HectorSin/ai_basic/master/ai_prog_basic/Chapters/Ch12_Pandas/data/weather.csv"
+#weather = pd.read_csv(url, index_col = 0, encoding = 'CP949')
+weather = pd.read_csv("data\\weather.csv", index_col = 0, encoding = 'CP949')
+
 
 # In[2]:
 print(weather.head())
