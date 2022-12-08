@@ -14,4 +14,3 @@ country['density'] = country['population'] / country['area']
 print(country)
 
 # In[4]:
-
