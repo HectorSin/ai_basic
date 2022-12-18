@@ -1,0 +1,26 @@
+global
+import random
+random.randrange(a,b)
+import re
+import sys
+open("","r")
+f.readlines()
+line.strip()
+line.lower()
+li.append()
+re.sub('', '', a)
+import matplotlib.pyplot as plt
+import numpy as np
+np.array([])
+plt.scatter(x,y,color="",marker="")
+plt.title('')
+plt.xlabel('')
+plt.ylabel('')
+plt.legend()
+plt.show()
+"{}".format()
+f"{}"
+class a:
+class a(b):
+super().__init__():
+def __init__():
