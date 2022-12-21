@@ -1,22 +1,38 @@
 global
 import random
 random.randrange(a,b)
+import sting
+string.ascii_letteers
 import re
+re.findall('',t)
+t.split('')
 import sys
 open("","r")
 f.readlines()
 line.strip()
 line.lower()
+ch.isupper()
+line.count('')
 li.append()
+dic.items()
+set([])
 re.sub('', '', a)
 import matplotlib.pyplot as plt
 import numpy as np
 np.array([])
+np.random.seed()
+np.random.rand()
+np.random.randn()
 plt.scatter(x,y,color="",marker="")
 plt.title('')
+plt.plot(x,y,label='linear')
+plt.boxplot(d)
+plt.hist(x,y,histtype='',color='',alpha=)
 plt.xlabel('')
 plt.ylabel('')
 plt.legend()
+plt.figure(figsize=())
+plt.imshow(wc)
 plt.show()
 "{}".format()
 f"{}"
@@ -24,3 +40,11 @@ class a:
 class a(b):
 super().__init__():
 def __init__():
+import wikipedia
+wikipedia.page('')
+wi.content
+wordCloud(w,h,s).generate(t)
+from wordcloud import WordCloud, STOPWORDS
+import math
+math.cos()
+math.radians(a)
